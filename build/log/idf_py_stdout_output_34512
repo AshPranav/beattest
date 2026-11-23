@@ -1,0 +1,239 @@
+Command: /home/oshada/.espressif/python_env/idf6.1_py3.14_env/bin/python /home/oshada/.espressif/v6.1.1/esp-idf/tools/idf_monitor.py -p /dev/ttyACM0 -b 115200 --toolchain-prefix riscv32-esp-elf- --target esp32c3 --revision 3 --decode-panic backtrace /home/oshada/projects/beattest/build/i2c_scanner.elf /home/oshada/projects/beattest/build/bootloader/bootloader.elf -m '/home/oshada/.espressif/python_env/idf6.1_py3.14_env/bin/python' '/home/oshada/.espressif/v6.1.1/esp-idf/tools/idf.py' '-p' '/dev/ttyACM0'
+[0;32mI (113) esp_image: segment 5: paddr=0003aa5c vaddr=50000000 sizeESP-ROM:esp32c3-api1-20210207[0m
+Build:Feb  7 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0xd (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4038372c
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fcd5830,len:0x1424
+load:0x403cbf10,len:0xcbc
+load:0x403ce710,len:0x2f5c
+entry 0x403cbf1a
+[0;32mI (24) boot: ESP-IDF v6.1.1 2nd stage bootloader[0m
+[0;32mI (24) boot: compile time Nov 23 2026 16:22:09[0m
+[0;32mI (25) boot: chip revision: v0.4[0m
+[0;32mI (25) boot.esp32c3: SPI Speed      : 80MHz[0m
+[0;32mI (28) boot.esp32c3: SPI Mode       : DIO[0m
+[0;32mI (32) boot.esp32c3: SPI Flash Size : 2MB[0m
+[0;32mI (36) boot: Partition Table:[0m
+[0;32mI (38) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (45) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (51) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (58) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (64) esp_image: segment 0: paddr=00010020 vaddr=3c020020 size=09524h ( 38180) map[0m
+[0;32mI (78) esp_image: segment 1: paddr=0001954c vaddr=3fc8a200 size=019f0h (  6640) load[0m
+[0;32mI (80) esp_image: segment 2: paddr=0001af44 vaddr=40380000 size=050d4h ( 20692) load[0m
+[0;32mI (91) esp_image: segment 3: paddr=00020020 vaddr=42000020 size=15ac8h ( 88776) map[0m
+[0;32mI (108) esp_image: segment 4: paddr=00035af0 vaddr=403850d4 size=04f64h ( 20324) load[0m
+[0;32mI (113) esp_image: segment 5: paddr=0003aa5c vaddr=50000000 size=00024h (    36) load[0m
+[0;32mI (116) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (129) cpu_start: Unicore app[0m
+[0;32mI (137) cpu_start: GPIO 20 and 21 are used as console UART I/O pins[0m
+[0;32mI (138) cpu_start: Pro cpu start user code[0m
+[0;32mI (138) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (139) app_init: Application information:[0m
+[0;32mI (143) app_init: Project name:     i2c_scanner[0m
+[0;32mI (147) app_init: App version:      1[0m
+[0;32mI (151) app_init: Compile time:     Nov 23 2026 16:22:00[0m
+[0;32mI (156) app_init: ELF file SHA256:  089415a92...[0m
+[0;32mI (160) app_init: ESP-IDF:          v6.1.1[0m
+[0;32mI (164) efuse_init: Min chip rev:     v0.3[0m
+[0;32mI (168) efuse_init: Max chip rev:     v1.99 [0m
+[0;32mI (172) efuse_init: Chip rev:         v0.4[0m
+[0;32mI (176) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (182) heap_init: At 3FC8CC50 len 000333B0 (204 KiB): RAM[0m
+[0;32mI (187) heap_init: At 3FCC0000 len 0001C710 (113 KiB): Retention RAM[0m
+[0;32mI (193) heap_init: At 3FCDC710 len 00002950 (10 KiB): Retention RAM[0m
+[0;32mI (199) heap_init: At 50000024 len 00001FC4 (7 KiB): RTCRAM[0m
+[0;32mI (205) spi_flash: detected chip: generic[0m
+[0;32mI (208) spi_flash: flash io: dio[0m
+[0;33mW (211) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (224) sleep_gpio: Configure to isolate all GPIO pins in sleep state[0m
+[0;32mI (230) sleep_gpio: Enable automatic switching of GPIO sleep configuration[0m
+[0;32mI (237) main_task: Started on CPU0[0m
+[0;32mI (237) main_task: Calling app_main()[0m
+QMC5883P ID read: ESP_OK, value=0x80
+MPU6050 initialized
+ACC: 130 707 4223 | GYRO: 57 2 2
+ACC: 139 683 4219 | GYRO: 57 1 1
+ACC: 131 697 4219 | GYRO: 56 2 3
+ACC: 137 705 4217 | GYRO: 57 1 1
+ACC: 139 698 4214 | GYRO: 59 0 1
+ACC: 126 698 4208 | GYRO: 56 1 1
+ACC: 130 697 4210 | GYRO: 56 1 1
+ACC: 122 700 4212 | GYRO: 58 1 2
+ACC: 133 699 4196 | GYRO: 56 0 2
+ACC: 132 696 4203 | GYRO: 57 1 1
+ACC: 126 700 4218 | GYRO: 57 2 1
+ACC: 130 699 4225 | GYRO: 56 2 1
+ACC: 133 698 4219 | GYRO: 56 0 1
+ACC: 120 700 4226 | GYRO: 56 1 1
+ACC: 132 695 4224 | GYRO: 57 2 1
+ACC: 125 697 4215 | GYRO: 56 1 1
+ACC: 135 695 4199 | GYRO: 57 0 0
+ACC: 127 696 4219 | GYRO: 58 1 1
+ACC: 126 702 4222 | GYRO: 56 2 1
+ACC: 130 699 4213 | GYRO: 54 1 1
+ACC: 130 698 4213 | GYRO: 55 2 1
+ACC: 129 700 4224 | GYRO: 56 0 1
+ACC: 126 708 4226 | GYRO: 59 1 1
+ACC: 136 695 4227 | GYRO: 56 1 2
+ACC: 137 699 4207 | GYRO: 56 1 1
+ACC: 134 689 4221 | GYRO: 56 1 1
+ACC: 133 693 4218 | GYRO: 56 1 1
+ACC: 135 701 4219 | GYRO: 57 0 3
+ACC: 135 694 4229 | GYRO: 57 2 2
+ACC: 135 703 4216 | GYRO: 57 2 1
+ACC: 139 701 4210 | GYRO: 56 -2 2
+ACC: 135 699 4244 | GYRO: 58 0 1
+ACC: 124 708 4219 | GYRO: 59 1 1
+ACC: 130 691 4211 | GYRO: 56 2 1
+ACC: 120 697 4208 | GYRO: 57 1 1
+ACC: 130 700 4215 | GYRO: 56 2 2
+ACC: 135 702 4229 | GYRO: 57 0 2
+ACC: 138 699 4225 | GYRO: 58 1 1
+ACC: 132 699 4211 | GYRO: 56 1 0
+ACC: 128 696 4218 | GYRO: 58 3 2
+ACC: 127 698 4225 | GYRO: 56 2 2
+ACC: 125 704 4215 | GYRO: 55 1 2
+ACC: 130 700 4200 | GYRO: 56 0 2
+ACC: 129 691 4208 | GYRO: 57 -1 1
+ACC: 143 696 4213 | GYRO: 58 0 1
+ACC: 125 705 4223 | GYRO: 57 1 3
+ACC: 122 696 4207 | GYRO: 57 0 2
+ACC: 126 696 4212 | GYRO: 57 1 2
+ACC: 132 698 4202 | GYRO: 56 0 1
+ACC: 123 701 4193 | GYRO: 57 1 1
+ACC: 134 695 4198 | GYRO: 57 1 1
+ACC: 136 694 4217 | GYRO: 57 0 2
+ACC: 135 707 4233 | GYRO: 55 1 2
+ACC: 133 698 4209 | GYRO: 57 3 1
+ACC: 148 718 4264 | GYRO: 51 4 2
+ACC: 106 636 4117 | GYRO: 54 0 2
+ACC: 115 693 4202 | GYRO: 55 3 2
+ACC: 124 685 4238 | GYRO: 55 1 0
+ACC: 141 696 4232 | GYRO: 56 1 0
+ACC: 135 696 4235 | GYRO: 57 0 1
+ACC: 135 698 4219 | GYRO: 57 1 1
+ACC: 138 687 4229 | GYRO: 58 0 1
+ACC: 128 691 4209 | GYRO: 56 1 1
+ACC: 118 689 4209 | GYRO: 57 2 1
+ACC: 114 695 4202 | GYRO: 57 2 1
+ACC: 125 700 4218 | GYRO: 56 1 2
+ACC: 128 697 4223 | GYRO: 57 -1 1
+ACC: 126 681 4224 | GYRO: 57 0 1
+ACC: 131 696 4210 | GYRO: 57 -1 2
+ACC: -1095 503 3962 | GYRO: 56 3071 -322
+ACC: 192 624 4130 | GYRO: 36 -2492 573
+ACC: -160 248 4428 | GYRO: 48 1593 265
+ACC: 221 731 4683 | GYRO: -5 -1 -484
+ACC: -128 777 4056 | GYRO: 303 -137 119
+ACC: 195 1214 4423 | GYRO: 1101 196 -114
+ACC: -10 1541 3925 | GYRO: 1388 -19 282
+ACC: 304 2004 3745 | GYRO: 782 119 181
+ACC: 9 2235 3708 | GYRO: 280 195 275
+ACC: 93 2165 3318 | GYRO: 323 378 106
+ACC: 108 2131 3417 | GYRO: -126 354 -17
+ACC: -133 1840 3600 | GYRO: -255 673 -524
+ACC: -1123 1720 3583 | GYRO: -621 2027 -1402
+ACC: -1728 1307 3216 | GYRO: -722 1223 -905
+ACC: -2422 995 3821 | GYRO: -485 1163 -878
+ACC: -2804 693 3351 | GYRO: -336 -206 -406
+ACC: -2343 590 3595 | GYRO: -436 -1305 -6
+ACC: -1408 324 4153 | GYRO: -451 -2670 253
+ACC: -352 317 3888 | GYRO: -143 -2430 446
+ACC: 544 405 4201 | GYRO: 141 -1671 1294
+ACC: 980 260 3897 | GYRO: 1230 57 733
+ACC: 1235 857 3916 | GYRO: 1634 241 901
+ACC: 1230 1370 4152 | GYRO: 1447 195 903
+ACC: 1077 1794 3440 | GYRO: 1530 953 109
+ACC: 358 2189 3431 | GYRO: 1276 1589 -1059
+ACC: -348 2570 3251 | GYRO: 966 1774 -1803
+ACC: -1573 2273 2960 | GYRO: 133 1170 -1765
+ACC: -2705 1991 3082 | GYRO: -620 778 -2404
+ACC: -2839 1412 2687 | GYRO: -1020 -582 -929
+ACC: -2534 1152 3721 | GYRO: -771 -1853 -76
+ACC: -1700 980 3447 | GYRO: -597 -2318 552
+ACC: -933 961 3730 | GYRO: -24 -1563 683
+ACC: -500 956 4110 | GYRO: 249 -451 242
+ACC: -379 1211 4475 | GYRO: 111 -425 310
+ACC: 167 1021 4384 | GYRO: 15 -953 571
+ACC: 808 1075 4239 | GYRO: -23 -791 485
+ACC: 781 1028 4186 | GYRO: 206 40 -212
+ACC: 590 1050 4098 | GYRO: 271 -80 291
+ACC: 1090 1168 3971 | GYRO: 329 -461 450
+ACC: 998 1129 4127 | GYRO: -42 -295 677
+ACC: 1287 1014 3901 | GYRO: 21 -366 842
+ACC: 1322 850 3842 | GYRO: 278 -615 792
+ACC: 1656 934 3619 | GYRO: 692 -314 527
+ACC: 1553 910 3704 | GYRO: 454 -120 220
+ACC: 2035 975 3696 | GYRO: -334 448 -907
+ACC: 905 1511 4092 | GYRO: -640 1382 -2246
+ACC: 870 940 3716 | GYRO: -95 433 -1049
+ACC: 550 1231 3768 | GYRO: -361 454 -1143
+ACC: 488 1075 4001 | GYRO: -7 -209 668
+ACC: 345 957 4379 | GYRO: -177 4 267
+ACC: 431 748 4126 | GYRO: -266 -85 145
+ACC: 6 543 4833 | GYRO: 46 98 98
+ACC: 506 660 4152 | GYRO: 58 -18 37
+ACC: 638 710 4187 | GYRO: 64 187 41
+ACC: -25 513 4240 | GYRO: 58 998 18
+ACC: 100 656 4269 | GYRO: 58 252 -45
+ACC: 53 686 4244 | GYRO: 58 -205 26
+ACC: -133 676 4205 | GYRO: 56 -103 14
+ACC: -157 673 4205 | GYRO: 58 -11 3
+ACC: -157 675 4217 | GYRO: 57 29 -2
+ACC: -136 669 4217 | GYRO: 58 38 -3
+ACC: -122 683 4226 | GYRO: 58 35 -3
+ACC: -88 682 4208 | GYRO: 57 26 -2
+ACC: -95 677 4231 | GYRO: 56 16 -1
+ACC: -95 684 4208 | GYRO: 56 11 1
+ACC: -82 681 4220 | GYRO: 56 9 0
+ACC: -81 685 4225 | GYRO: 56 4 1
+ACC: -81 663 4215 | GYRO: 57 7 1
+ACC: -70 684 4221 | GYRO: 56 2 2
+ACC: -58 680 4241 | GYRO: 56 -19 3
+ACC: -45 683 4237 | GYRO: 56 -29 5
+ACC: -43 682 4245 | GYRO: 56 -42 6
+ACC: -47 681 4213 | GYRO: 56 -50 7
+ACC: -56 677 4217 | GYRO: 55 -36 5
+ACC: -65 685 4216 | GYRO: 57 -28 5
+ACC: -64 670 4228 | GYRO: 57 -28 4
+ACC: -48 676 4221 | GYRO: 56 -30 5
+ACC: -47 683 4220 | GYRO: 56 -32 4
+ACC: -58 682 4226 | GYRO: 57 -17 4
+ACC: -54 683 4221 | GYRO: 56 -31 5
+ACC: -68 666 4203 | GYRO: 57 -27 5
+ACC: -58 699 4217 | GYRO: 56 -7 2
+ACC: -60 670 4225 | GYRO: 57 6 1
+ACC: -69 671 4224 | GYRO: 57 14 0
+ACC: -75 683 4218 | GYRO: 56 25 -2
+ACC: -86 672 4228 | GYRO: 56 28 -3
+ACC: -83 669 4220 | GYRO: 57 16 -2
+ACC: -84 670 4200 | GYRO: 60 45 -5
+ACC: -70 684 4197 | GYRO: 58 94 -10
+ACC: 5 666 4207 | GYRO: 55 18 -1
+ACC: -4 670 4227 | GYRO: 56 -53 8
+ACC: -49 677 4208 | GYRO: 57 -62 8
+ACC: -85 674 4197 | GYRO: 56 -46 6
+ACC: -89 674 4201 | GYRO: 57 3 1
+ACC: -80 683 4227 | GYRO: 58 19 -2
+ACC: -57 699 4224 | GYRO: 55 10 0
+ACC: -54 671 4227 | GYRO: 57 -4 2
+ACC: -66 686 4235 | GYRO: 57 -27 4
+ACC: -90 671 4221 | GYRO: 55 -26 4
+ACC: -89 682 4204 | GYRO: 56 -18 2
+ACC: -117 696 4232 | GYRO: 57 -7 3
+ACC: -113 678 4235 | GYRO: 57 9 -1
+ACC: -119 690 4226 | GYRO: 58 26 -3
+ACC: -108 680 4227 | GYRO: 57 28 -2
+ACC: -74 676 4200 | GYRO: 55 9 1
+ACC: -53 679 4221 | GYRO: 56 -1 2
+ACC: -46 678 4221 | GYRO: 56 -11 2
+ACC: -53 681 4219 | GYRO: 57 -17 4
+ACC: -72 678 4238 | GYRO: 56 -17 2
+ACC: -80 678 4223 | GYRO: 57 -4 2
+ACC: -93 679 4205 | GYRO: 58 6 1
+ACC: -89 672 4217 | GYRO: 55 3 1
+ACC: -87 686 4237 | GYRO: 58 6 0
+ACC: -81 672 4219 | GYRO: 58 14 -1

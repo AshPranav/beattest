@@ -1,0 +1,2 @@
+source /home/oshada/projects/beattest/build/bootloader/gdbinit/symbols
+source /home/oshada/projects/beattest/build/bootloader/gdbinit/connect
