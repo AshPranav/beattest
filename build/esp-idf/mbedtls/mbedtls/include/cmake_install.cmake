@@ -1,4 +1,4 @@
-# Install script for directory: /home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include
+# Install script for directory: /home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,42 +34,42 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/home/oshada/.espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/bin/riscv32-esp-elf-objdump")
+  set(CMAKE_OBJDUMP "/home/pranav/.espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/bin/riscv32-esp-elf-objdump")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/mbedtls" TYPE FILE PERMISSIONS OWNER_READ OWNER_WRITE GROUP_READ WORLD_READ FILES
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/build_info.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/debug.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/mbedtls_config.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs7.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_cache.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_cookie.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ticket.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/timing.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/version.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_csr.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/build_info.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/debug.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/error.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/mbedtls_config.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/net_sockets.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/oid.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/pkcs7.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_cache.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ciphersuites.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_cookie.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/ssl_ticket.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/timing.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/version.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crl.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_crt.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/x509_csr.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/mbedtls/private" TYPE FILE PERMISSIONS OWNER_READ OWNER_WRITE GROUP_READ WORLD_READ FILES
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/private/config_adjust_ssl.h"
-    "/home/oshada/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/private/config_adjust_x509.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/private/config_adjust_ssl.h"
+    "/home/pranav/.espressif/v6.1.1/esp-idf/components/mbedtls/mbedtls/include/mbedtls/private/config_adjust_x509.h"
     )
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/oshada/projects/beattest/build/esp-idf/mbedtls/mbedtls/include/install_local_manifest.txt"
+  file(WRITE "/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/mbedtls/mbedtls/include/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

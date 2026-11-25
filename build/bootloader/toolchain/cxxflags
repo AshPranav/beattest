@@ -1,5 +1,0 @@
-"-specs=/home/oshada/projects/beattest/build/bootloader/specs/picolibc.specs"
--D__PICOLIBC_ERRNO_FUNCTION=__errno
--march=rv32imc_zicsr_zifencei
--mtune=esp-base
--fno-rtti

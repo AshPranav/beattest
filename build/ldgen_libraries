@@ -1,190 +1,190 @@
-/home/oshada/projects/beattest/build/esp-idf/riscv/libriscv.a
-/home/oshada/projects/beattest/build/esp-idf/cxx/libcxx.a
-/home/oshada/projects/beattest/build/esp-idf/esp_libc/libesp_libc.a
-/home/oshada/projects/beattest/build/esp-idf/freertos/libfreertos.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hw_support/libesp_hw_support.a
-/home/oshada/projects/beattest/build/esp-idf/heap/libheap.a
-/home/oshada/projects/beattest/build/esp-idf/log/liblog.a
-/home/oshada/projects/beattest/build/esp-idf/soc/libsoc.a
-/home/oshada/projects/beattest/build/esp-idf/hal/libhal.a
-/home/oshada/projects/beattest/build/esp-idf/esp_rom/libesp_rom.a
-/home/oshada/projects/beattest/build/esp-idf/esp_common/libesp_common.a
-/home/oshada/projects/beattest/build/esp-idf/esp_system/libesp_system.a
-/home/oshada/projects/beattest/build/esp-idf/esp_stdio/libesp_stdio.a
-/home/oshada/projects/beattest/build/esp-idf/riscv/libriscv.a
-/home/oshada/projects/beattest/build/esp-idf/vfs/libvfs.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_uart/libesp_driver_uart.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_uart/libesp_hal_uart.a
-/home/oshada/projects/beattest/build/esp-idf/esp_pm/libesp_pm.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_gpio/libesp_driver_gpio.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_gpio/libesp_hal_gpio.a
-/home/oshada/projects/beattest/build/esp-idf/esp_timer/libesp_timer.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_timg/libesp_hal_timg.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_systimer/libesp_hal_systimer.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_dma/libesp_driver_dma.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_dma/libesp_hal_dma.a
-/home/oshada/projects/beattest/build/esp-idf/esp_mm/libesp_mm.a
-/home/oshada/projects/beattest/build/esp-idf/spi_flash/libspi_flash.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_mspi/libesp_hal_mspi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_clock/libesp_hal_clock.a
-/home/oshada/projects/beattest/build/esp-idf/bootloader_support/libbootloader_support.a
-/home/oshada/projects/beattest/build/esp-idf/mbedtls/libmbedtls.a
-/home/oshada/projects/beattest/build/esp-idf/esp_security/libesp_security.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_security/libesp_hal_security.a
-/home/oshada/projects/beattest/build/esp-idf/efuse/libefuse.a
-/home/oshada/projects/beattest/build/esp-idf/esp_partition/libesp_partition.a
-/home/oshada/projects/beattest/build/esp-idf/app_update/libapp_update.a
-/home/oshada/projects/beattest/build/esp-idf/esp_app_format/libesp_app_format.a
-/home/oshada/projects/beattest/build/esp-idf/esp_bootloader_format/libesp_bootloader_format.a
-/home/oshada/projects/beattest/build/esp-idf/lwip/liblwip.a
-/home/oshada/projects/beattest/build/esp-idf/mbedtls/mbedtls/library/libmbedtls.a
-/home/oshada/projects/beattest/build/esp-idf/mbedtls/mbedtls/library/libmbedx509.a
-/home/oshada/projects/beattest/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/libtfpsacrypto.a
-/home/oshada/projects/beattest/build/esp-idf/nvs_flash/libnvs_flash.a
-/home/oshada/projects/beattest/build/esp-idf/nvs_sec_provider/libnvs_sec_provider.a
-/home/oshada/projects/beattest/build/esp-idf/mbedtls/libmbedtls.a
-/home/oshada/projects/beattest/build/esp-idf/esp_security/libesp_security.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_dma/libesp_driver_dma.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hw_support/libesp_hw_support.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_usb/libesp_hal_usb.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_pmu/libesp_hal_pmu.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_wdt/libesp_hal_wdt.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a
-/home/oshada/projects/beattest/build/esp-idf/esp_mm/libesp_mm.a
-/home/oshada/projects/beattest/build/esp-idf/efuse/libefuse.a
-/home/oshada/projects/beattest/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
-/home/oshada/projects/beattest/build/esp-idf/esp_psram/libesp_psram.a
-/home/oshada/projects/beattest/build/esp-idf/vfs/libvfs.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
-/home/oshada/projects/beattest/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
-/home/oshada/projects/beattest/build/esp-idf/esp_adc/libesp_adc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_i2s/libesp_driver_i2s.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_i2s/libesp_hal_i2s.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_i2c/libesp_hal_i2c.a
-/home/oshada/projects/beattest/build/esp-idf/esp_http_client/libesp_http_client.a
-/home/oshada/projects/beattest/build/esp-idf/esp_event/libesp_event.a
-/home/oshada/projects/beattest/build/esp-idf/tcp_transport/libtcp_transport.a
-/home/oshada/projects/beattest/build/esp-idf/esp-tls/libesp-tls.a
-/home/oshada/projects/beattest/build/esp-idf/http_parser/libhttp_parser.a
-/home/oshada/projects/beattest/build/esp-idf/esp_http_server/libesp_http_server.a
-/home/oshada/projects/beattest/build/esp-idf/esp_wifi/libesp_wifi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_phy/libesp_phy.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_phy/lib/esp32c3/libbtbb.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_phy/lib/esp32c3/libphy.a
-/home/oshada/projects/beattest/build/esp-idf/esp_netif/libesp_netif.a
-/home/oshada/projects/beattest/build/esp-idf/wpa_supplicant/libwpa_supplicant.a
-/home/oshada/projects/beattest/build/esp-idf/esp_coex/libesp_coex.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libcore.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libespnow.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libmesh.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libnet80211.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libpp.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libsmartconfig.a
-/home/oshada/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libwapi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_https_ota/libesp_https_ota.a
-/home/oshada/projects/beattest/build/esp-idf/pthread/libpthread.a
-/home/oshada/projects/beattest/build/esp-idf/esp_stdio/libesp_stdio.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_dma/libesp_hal_dma.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_clock/libesp_hal_clock.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_mspi/libesp_hal_mspi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_security/libesp_hal_security.a
-/home/oshada/projects/beattest/build/esp-idf/esp_app_format/libesp_app_format.a
-/home/oshada/projects/beattest/build/esp-idf/esp_bootloader_format/libesp_bootloader_format.a
-/home/oshada/projects/beattest/build/esp-idf/app_update/libapp_update.a
-/home/oshada/projects/beattest/build/esp-idf/esp_partition/libesp_partition.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_gpio/libesp_driver_gpio.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_uart/libesp_hal_uart.a
-/home/oshada/projects/beattest/build/esp-idf/esp_pm/libesp_pm.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_timg/libesp_hal_timg.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_wdt/libesp_hal_wdt.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a
-/home/oshada/projects/beattest/build/esp-idf/bootloader_support/libbootloader_support.a
-/home/oshada/projects/beattest/build/esp-idf/spi_flash/libspi_flash.a
-/home/oshada/projects/beattest/build/esp-idf/esp_system/libesp_system.a
-/home/oshada/projects/beattest/build/esp-idf/esp_common/libesp_common.a
-/home/oshada/projects/beattest/build/esp-idf/esp_rom/libesp_rom.a
-/home/oshada/projects/beattest/build/esp-idf/hal/libhal.a
-/home/oshada/projects/beattest/build/esp-idf/log/liblog.a
-/home/oshada/projects/beattest/build/esp-idf/heap/libheap.a
-/home/oshada/projects/beattest/build/esp-idf/soc/libsoc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_gpio/libesp_hal_gpio.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_usb/libesp_hal_usb.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_pmu/libesp_hal_pmu.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_systimer/libesp_hal_systimer.a
-/home/oshada/projects/beattest/build/esp-idf/freertos/libfreertos.a
-/home/oshada/projects/beattest/build/esp-idf/esp_libc/libesp_libc.a
-/home/oshada/projects/beattest/build/esp-idf/pthread/libpthread.a
-/home/oshada/projects/beattest/build/esp-idf/cxx/libcxx.a
-/home/oshada/projects/beattest/build/esp-idf/esp_timer/libesp_timer.a
-/home/oshada/projects/beattest/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
-/home/oshada/projects/beattest/build/esp-idf/esp_psram/libesp_psram.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_uart/libesp_driver_uart.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_gptimer/libesp_driver_gptimer.a
-/home/oshada/projects/beattest/build/esp-idf/esp_event/libesp_event.a
-/home/oshada/projects/beattest/build/esp-idf/nvs_sec_provider/libnvs_sec_provider.a
-/home/oshada/projects/beattest/build/esp-idf/nvs_flash/libnvs_flash.a
-/home/oshada/projects/beattest/build/esp-idf/esp_phy/libesp_phy.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
-/home/oshada/projects/beattest/build/esp-idf/lwip/liblwip.a
-/home/oshada/projects/beattest/build/esp-idf/esp_netif/libesp_netif.a
-/home/oshada/projects/beattest/build/esp-idf/wpa_supplicant/libwpa_supplicant.a
-/home/oshada/projects/beattest/build/esp-idf/esp_coex/libesp_coex.a
-/home/oshada/projects/beattest/build/esp-idf/esp_wifi/libesp_wifi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
-/home/oshada/projects/beattest/build/esp-idf/unity/libunity.a
-/home/oshada/projects/beattest/build/esp-idf/cmock/libcmock.a
-/home/oshada/projects/beattest/build/esp-idf/unity/libunity.a
-/home/oshada/projects/beattest/build/esp-idf/console/libconsole.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_i2c/libesp_hal_i2c.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_twai/libesp_hal_twai.a
-/home/oshada/projects/beattest/build/esp-idf/driver/libdriver.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_twai/libesp_hal_twai.a
-/home/oshada/projects/beattest/build/esp-idf/http_parser/libhttp_parser.a
-/home/oshada/projects/beattest/build/esp-idf/esp-tls/libesp-tls.a
-/home/oshada/projects/beattest/build/esp-idf/esp_adc/libesp_adc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_blockdev_util/libesp_blockdev_util.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_cam/libesp_driver_cam.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_i2c/libesp_driver_i2c.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_i2s/libesp_hal_i2s.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_i2s/libesp_driver_i2s.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_ledc/libesp_hal_ledc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_ledc/libesp_driver_ledc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_ledc/libesp_hal_ledc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_rmt/libesp_hal_rmt.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_rmt/libesp_driver_rmt.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hal_rmt/libesp_hal_rmt.a
-/home/oshada/projects/beattest/build/esp-idf/sdmmc/libsdmmc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_sd_intf/libesp_driver_sd_intf.a
-/home/oshada/projects/beattest/build/esp-idf/sdmmc/libsdmmc.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_sdm/libesp_driver_sdm.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_sd_intf/libesp_driver_sd_intf.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_tsens/libesp_driver_tsens.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_twai/libesp_driver_twai.a
-/home/oshada/projects/beattest/build/esp-idf/esp_eth/libesp_eth.a
-/home/oshada/projects/beattest/build/esp-idf/esp_hid/libesp_hid.a
-/home/oshada/projects/beattest/build/esp-idf/tcp_transport/libtcp_transport.a
-/home/oshada/projects/beattest/build/esp-idf/esp_http_client/libesp_http_client.a
-/home/oshada/projects/beattest/build/esp-idf/esp_http_server/libesp_http_server.a
-/home/oshada/projects/beattest/build/esp-idf/esp_https_ota/libesp_https_ota.a
-/home/oshada/projects/beattest/build/esp-idf/esp_https_server/libesp_https_server.a
-/home/oshada/projects/beattest/build/esp-idf/esp_lcd/libesp_lcd.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_i2c/libesp_driver_i2c.a
-/home/oshada/projects/beattest/build/esp-idf/protobuf-c/libprotobuf-c.a
-/home/oshada/projects/beattest/build/esp-idf/protocomm/libprotocomm.a
-/home/oshada/projects/beattest/build/esp-idf/protobuf-c/libprotobuf-c.a
-/home/oshada/projects/beattest/build/esp-idf/console/libconsole.a
-/home/oshada/projects/beattest/build/esp-idf/esp_local_ctrl/libesp_local_ctrl.a
-/home/oshada/projects/beattest/build/esp-idf/protocomm/libprotocomm.a
-/home/oshada/projects/beattest/build/esp-idf/esp_https_server/libesp_https_server.a
-/home/oshada/projects/beattest/build/esp-idf/wear_levelling/libwear_levelling.a
-/home/oshada/projects/beattest/build/esp-idf/fatfs/libfatfs.a
-/home/oshada/projects/beattest/build/esp-idf/wear_levelling/libwear_levelling.a
-/home/oshada/projects/beattest/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
-/home/oshada/projects/beattest/build/esp-idf/rt/librt.a
-/home/oshada/projects/beattest/build/esp-idf/spiffs/libspiffs.a
-/home/oshada/projects/beattest/build/esp-idf/main/libmain.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/riscv/libriscv.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/cxx/libcxx.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_libc/libesp_libc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/freertos/libfreertos.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hw_support/libesp_hw_support.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/heap/libheap.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/log/liblog.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/soc/libsoc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/hal/libhal.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_rom/libesp_rom.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_common/libesp_common.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_system/libesp_system.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_stdio/libesp_stdio.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/riscv/libriscv.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/vfs/libvfs.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_uart/libesp_driver_uart.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_uart/libesp_hal_uart.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_pm/libesp_pm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_gpio/libesp_driver_gpio.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_gpio/libesp_hal_gpio.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_timer/libesp_timer.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_timg/libesp_hal_timg.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_systimer/libesp_hal_systimer.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_dma/libesp_driver_dma.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_dma/libesp_hal_dma.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_mm/libesp_mm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/spi_flash/libspi_flash.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_mspi/libesp_hal_mspi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_clock/libesp_hal_clock.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/bootloader_support/libbootloader_support.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/mbedtls/libmbedtls.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_security/libesp_security.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_security/libesp_hal_security.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/efuse/libefuse.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_partition/libesp_partition.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/app_update/libapp_update.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_app_format/libesp_app_format.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_bootloader_format/libesp_bootloader_format.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/lwip/liblwip.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/mbedtls/mbedtls/library/libmbedtls.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/mbedtls/mbedtls/library/libmbedx509.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/mbedtls/mbedtls/tf-psa-crypto/core/libtfpsacrypto.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/nvs_flash/libnvs_flash.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/nvs_sec_provider/libnvs_sec_provider.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/mbedtls/libmbedtls.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_security/libesp_security.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_dma/libesp_driver_dma.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hw_support/libesp_hw_support.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_usb/libesp_hal_usb.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_pmu/libesp_hal_pmu.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_wdt/libesp_hal_wdt.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_mm/libesp_mm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/efuse/libefuse.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_psram/libesp_psram.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/vfs/libvfs.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_adc/libesp_adc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_i2s/libesp_driver_i2s.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_i2s/libesp_hal_i2s.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_i2c/libesp_hal_i2c.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_http_client/libesp_http_client.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_event/libesp_event.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/tcp_transport/libtcp_transport.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp-tls/libesp-tls.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/http_parser/libhttp_parser.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_http_server/libesp_http_server.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_wifi/libesp_wifi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_phy/libesp_phy.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_phy/lib/esp32c3/libbtbb.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_phy/lib/esp32c3/libphy.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_netif/libesp_netif.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/wpa_supplicant/libwpa_supplicant.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_coex/libesp_coex.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libcore.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libespnow.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libmesh.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libnet80211.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libpp.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libsmartconfig.a
+/home/pranav/.espressif/v6.1.1/esp-idf/components/esp_wifi/lib/esp32c3/libwapi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_https_ota/libesp_https_ota.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/pthread/libpthread.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_stdio/libesp_stdio.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_dma/libesp_hal_dma.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_clock/libesp_hal_clock.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_mspi/libesp_hal_mspi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_security/libesp_hal_security.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_app_format/libesp_app_format.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_bootloader_format/libesp_bootloader_format.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/app_update/libapp_update.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_partition/libesp_partition.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_gpio/libesp_driver_gpio.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_uart/libesp_hal_uart.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_pm/libesp_pm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_timg/libesp_hal_timg.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_wdt/libesp_hal_wdt.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/bootloader_support/libbootloader_support.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/spi_flash/libspi_flash.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_system/libesp_system.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_common/libesp_common.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_rom/libesp_rom.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/hal/libhal.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/log/liblog.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/heap/libheap.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/soc/libsoc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_gpio/libesp_hal_gpio.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_usb/libesp_hal_usb.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_pmu/libesp_hal_pmu.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_systimer/libesp_hal_systimer.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/freertos/libfreertos.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_libc/libesp_libc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/pthread/libpthread.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/cxx/libcxx.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_timer/libesp_timer.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_ringbuf/libesp_ringbuf.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_psram/libesp_psram.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_uart/libesp_driver_uart.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_gptimer/libesp_driver_gptimer.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_event/libesp_event.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/nvs_sec_provider/libnvs_sec_provider.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/nvs_flash/libnvs_flash.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_phy/libesp_phy.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_usb_serial_jtag/libesp_driver_usb_serial_jtag.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/lwip/liblwip.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_netif/libesp_netif.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/wpa_supplicant/libwpa_supplicant.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_coex/libesp_coex.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_wifi/libesp_wifi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/unity/libunity.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/cmock/libcmock.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/unity/libunity.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/console/libconsole.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_i2c/libesp_hal_i2c.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_twai/libesp_hal_twai.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/driver/libdriver.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_twai/libesp_hal_twai.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/http_parser/libhttp_parser.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp-tls/libesp-tls.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_adc/libesp_adc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_blockdev_util/libesp_blockdev_util.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_cam/libesp_driver_cam.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_i2c/libesp_driver_i2c.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_i2s/libesp_hal_i2s.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_i2s/libesp_driver_i2s.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_ledc/libesp_hal_ledc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_ledc/libesp_driver_ledc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_ledc/libesp_hal_ledc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_rmt/libesp_hal_rmt.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_rmt/libesp_driver_rmt.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hal_rmt/libesp_hal_rmt.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/sdmmc/libsdmmc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_sd_intf/libesp_driver_sd_intf.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/sdmmc/libsdmmc.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_sdm/libesp_driver_sdm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_sd_intf/libesp_driver_sd_intf.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_tsens/libesp_driver_tsens.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_twai/libesp_driver_twai.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_eth/libesp_eth.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_hid/libesp_hid.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/tcp_transport/libtcp_transport.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_http_client/libesp_http_client.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_http_server/libesp_http_server.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_https_ota/libesp_https_ota.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_https_server/libesp_https_server.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_lcd/libesp_lcd.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_i2c/libesp_driver_i2c.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/protobuf-c/libprotobuf-c.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/protocomm/libprotocomm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/protobuf-c/libprotobuf-c.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/console/libconsole.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_local_ctrl/libesp_local_ctrl.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/protocomm/libprotocomm.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_https_server/libesp_https_server.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/wear_levelling/libwear_levelling.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/fatfs/libfatfs.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/wear_levelling/libwear_levelling.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/esp_driver_sdspi/libesp_driver_sdspi.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/rt/librt.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/spiffs/libspiffs.a
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/esp-idf/main/libmain.a

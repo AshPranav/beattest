@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/oshada/projects/beattest/build/CMakeFiles/bootloader
-/home/oshada/projects/beattest/build/CMakeFiles/bootloader.rule
-/home/oshada/projects/beattest/build/CMakeFiles/bootloader-complete.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/oshada/projects/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/CMakeFiles/bootloader
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/CMakeFiles/bootloader.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/CMakeFiles/bootloader-complete.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
