@@ -1,5 +1,5 @@
 -march=rv32imc_zicsr_zifencei
 -mtune=esp-base
-"-specs=/mnt/c/Users/Pranav/documents/projects/beat saber/beattest/build/specs/picolibc.specs"
+"-specs=/home/oshada/projects/beattest/build/specs/picolibc.specs"
 -D__PICOLIBC_ERRNO_FUNCTION=__errno
 -fno-rtti
